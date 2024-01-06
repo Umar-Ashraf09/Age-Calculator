@@ -1,6 +1,6 @@
-# Age-Calculator
-
 # Age Calculator
+
+[Age Calculator](https://umar-ashraf09.github.io/Age-Calculator/)
 
 Welcome to the Age Calculator web page! This application helps you calculate the age based on the provided birthdate.
 
@@ -11,11 +11,11 @@ Welcome to the Age Calculator web page! This application helps you calculate the
 - [How to Use](#how-to-use)
 - [Design and Styling](#design-and-styling)
 - [Customization](#customization)
-- [License](#license)
 
 ## Preview
 
-<!-- Add a preview image link or GIF if available -->
+![Age Calculator](https://github.com/Umar-Ashraf09/Age-Calculator/assets/92431008/43d09c55-9c60-4528-85d1-ac3610e6ae8d)
+
 
 ## Technologies Used
 
@@ -25,7 +25,7 @@ Welcome to the Age Calculator web page! This application helps you calculate the
 
 ## How to Use
 
-1. Open the Age Calculator web page.
+1. Open the [Age Calculator](https://umar-ashraf09.github.io/Age-Calculator/) web page.
 2. Select the birthdate using the date input.
 3. Click the "Calculate" button to find out the age in years, months, and days.
 4. The result will be displayed below the input.
@@ -37,7 +37,3 @@ The Age Calculator features a clean and user-friendly design. It allows you to i
 ## Customization
 
 Feel free to explore and modify the codebase based on HTML, CSS, and JavaScript. Customize the styling or enhance functionalities to suit your preferences.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your requirements.
